@@ -1,4 +1,4 @@
-# Owner-avatar-Copy-data-from-the-AI-Bard-Table-and-transfer-it-to-the-JSON
+# Copy-data-from-the-AI-Bard-Table-and-transfer-it-to-the-JSON
 
 1. Purpose: The purpose of this code is to extract data from Bard tables and convert it into JSON format.
 
